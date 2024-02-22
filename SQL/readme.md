@@ -1,8 +1,3 @@
-### 이번 프로젝트는 SQL만을 사용하여 EDA를 해보겠습니다. 이를 위해 MSSQL을 사용하기 위해 SSMS(SQL Server Management Studio) 프로그램으로 진행하였습니다.
-
-
-<br/>
-
 ### 1. 데이터 분석을 위한 EDA
 
 - SQL로 다양한 EDA를 진행하여 코로나 상황 파악
