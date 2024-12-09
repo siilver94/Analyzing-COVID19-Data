@@ -26,6 +26,8 @@
 
 <br/>
 
-### 용량 issue로 Covid data file upload 불가능. 
+---
+
+***용량 issue로 Covid data file upload 불가능.***
 
 Coronavirus (COVID-19) Deaths Data Link : https://ourworldindata.org/covid-deaths
